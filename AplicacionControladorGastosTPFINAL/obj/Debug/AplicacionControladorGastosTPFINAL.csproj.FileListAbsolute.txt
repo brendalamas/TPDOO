@@ -1,0 +1,11 @@
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\bin\Debug\AplicacionControladorGastosTPFINAL.exe.config
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\bin\Debug\AplicacionControladorGastosTPFINAL.exe
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\bin\Debug\AplicacionControladorGastosTPFINAL.pdb
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.csproj.AssemblyReference.cache
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.Form1.resources
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.Properties.Resources.resources
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.csproj.GenerateResource.cache
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.exe
+C:\Users\blamas\Desktop\brenda\ifts\DOO\TPFINAL\AplicacionControladorGastosTPFINAL\obj\Debug\AplicacionControladorGastosTPFINAL.pdb
